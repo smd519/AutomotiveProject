@@ -1,0 +1,2 @@
+# automotiveproject
+This is a conceptual project for Analytics Modeling. Here I have focused on application of data analytics in automotive industry.  More specifically, I have proposed how warranty claims and auto service data contain valuable information about quality and reliability of hardware and software components of the cars.  This is more about the conceptual design of such service rather than coding and implementation. 
