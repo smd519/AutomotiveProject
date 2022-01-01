@@ -1,5 +1,7 @@
 Application of Data Analytics in Automotive Industry
 ================
+How warranty claims data can be used to improve the quality and
+reliability of the cars?
 
 # Introduction
 
