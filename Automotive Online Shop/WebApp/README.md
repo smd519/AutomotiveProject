@@ -1,4 +1,4 @@
-# Team Project For Fall 2023
+# Team Project- October 2023
 - H. Christopher, K. Anitha, L. Daniel, M. Sajjad, P. Jigar
  
 # Tech Stack
