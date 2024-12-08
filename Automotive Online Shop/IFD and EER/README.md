@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
   4. [View Monthly Sales Report](#view-monthly-sales-report)
   5. [View Parts Statistics Report](#view-parts-statistics-report)
   6. [View Price Per Condition Report](#view-price-per-condition-report)
-  7. [View Average time in Inventory Report](#view-average-time-in-inventory-report)
+  7. [View Average time in  Report](#view-average-time-in--report)
   8. [View Seller History Report](#view-seller-history-report)
   9. [View Add Sales Transactions](#viewadd-sales-transaction)
   10. [View/Add Customer](#viewadd-customer)
@@ -381,7 +381,7 @@ This task is divided into two parts (View Parts Order and Add Parts Orders).
 ##  <ins>Inventory Search</ins>
 ### Task Decomp
 
-![imgs/Inventory-Search](Inventory-Search.drawio.png)
+![imgs/Inventory-Search](imgs/Inventory-Search.drawio.png)
 
 + Lock Types: Read-only on: Vehicle table, Transaction table, PARTS_ORDER table, Vendor table, and Part table. 
 + Number of Locks: Five locks
