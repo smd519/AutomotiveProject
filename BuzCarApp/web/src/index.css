@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Styling should first be done using ChakraUI's props. If those aren't sufficient, Tailwind classNames 
+should fill in the gaps. Otherwise, we can define custom styles here */

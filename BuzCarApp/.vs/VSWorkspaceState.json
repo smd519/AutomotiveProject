@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\web",
+    "\\web\\src",
+    "\\web\\src\\modules",
+    "\\web\\src\\modules\\FormComponents\\Input",
+    "\\web\\src\\modules\\Forms",
+    "\\web\\src\\modules\\Forms\\AddVehicle",
+    "\\web\\src\\modules\\Forms\\Login",
+    "\\web\\src\\modules\\Link",
+    "\\web\\src\\pages"
+  ],
+  "SelectedNode": "\\web\\src\\Layout.tsx",
+  "PreviewInSolutionExplorer": false
+}
