@@ -1,5 +1,5 @@
 # Team Project For Fall 2023
-- H. Christopher, K. Anitha, L. Daniel, M., Sajjad, P. Jigar
+- H. Christopher, K. Anitha, L. Daniel, M. Sajjad, P. Jigar
  
 # Tech Stack
 This application is broken down into three different services:
