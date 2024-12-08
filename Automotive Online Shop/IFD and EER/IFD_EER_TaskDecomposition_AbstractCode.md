@@ -1,12 +1,3 @@
----
-title: "team#_p1_report"
-author: 'Team:'
-date: "October 1, 2023"
-output:
-  html_document: default
-  pdf_document: default
----
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
