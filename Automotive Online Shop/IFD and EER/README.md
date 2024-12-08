@@ -172,7 +172,7 @@ TD/AC for each Task including oval diagrams for each task on remaining pages of 
 ## <ins>Login</ins>
 ### Task Decomp
 
-![](login_TD.png "Login Decomposition")
+![](imgs/login_TD.png "Login Decomposition")
 
 + Lock Types: Read-only on Employee table
 + Number of Locks: Single
@@ -195,7 +195,7 @@ TD/AC for each Task including oval diagrams for each task on remaining pages of 
 ## <ins>View Vehicle</ins>
 ### Task Decomp
 
-![](View_Vehicle_Deomposition.png "View Vehicle Decomposition")
+![](imgs/View_Vehicle_Deomposition.png "View Vehicle Decomposition")
 
 + Lock Types: Read-only on Vehicle table, Employee, Transaction, Parts
 + Number of Locks: Several different schema constructs are needed.
@@ -250,7 +250,7 @@ TD/AC for each Task including oval diagrams for each task on remaining pages of 
 
 ### Task Decomp
 
-![](View_Purchased_Vehicles_TD.png "View Purchased Vehicles Decomposition")
+![](imgs/View_Purchased_Vehicles_TD.png "View Purchased Vehicles Decomposition")
 
 + Lock Types: Read-only on Vehicle table, Employee, Transaction, Parts
 + Number of Locks: Several different schema constructs are needed.
@@ -381,7 +381,7 @@ This task is divided into two parts (View Parts Order and Add Parts Orders).
 ##  <ins>Inventory Search</ins>
 ### Task Decomp
 
-![Inventory-Search](Inventory-Search.drawio.png)
+![imgs/Inventory-Search](Inventory-Search.drawio.png)
 
 + Lock Types: Read-only on: Vehicle table, Transaction table, PARTS_ORDER table, Vendor table, and Part table. 
 + Number of Locks: Five locks
@@ -466,7 +466,7 @@ This task is divided into two parts (View Parts Order and Add Parts Orders).
 ##  <ins>View/Add Sales Transaction</ins>
 ### Task Decomposition
 
-![decomposition image](view_add_sales_transaction_decomposition.png)
+![decomposition image](imgs/view_add_sales_transaction_decomposition.png)
 
 + **Lock Types:** read lock (EMPLOYEE, VEHICLE, TRANSACTS, PARTS_ORDER, CUSTOMER, INDIVIDUAL or BUSINESS) and write lock (TRANSACTS)
 + **Number of Locks:** 6 read locks, 1 write lock
@@ -485,7 +485,7 @@ This task is divided into two parts (View Customer and Add Customer).
 ##  <ins>View Customer</ins>
 ### Task Decomposition
 
-![decomposition image](view_customer_decomposition.png)
+![decomposition image](imgs/view_customer_decomposition.png)
 
 + **Lock Types:** read lock (CUSTOMER, INDIVIDUAL, BUSINESS) 
 + **Number of Locks:** 3 read locks
@@ -512,7 +512,7 @@ This task is divided into two parts (View Customer and Add Customer).
 ##  <ins>Add Customer </ins>
 ### Task Decomposition
 
-![decomposition image](add_customer_decomposition.png)
+![decomposition image](imgs/add_customer_decomposition.png)
 
 + **Lock Types:** write lock (CUSTOMER, INDIVIDUAL, BUSINESS)
 + **Number of Locks:** 3 write locks
@@ -542,7 +542,7 @@ This task is divided into two parts (View Vendor and Add Vendor).
 
 ##  <ins>View Vendor</ins>
 ### Task Decomposition
-![decomposition image](view_vendor_decomposition.png)  
+![decomposition image](imgs/view_vendor_decomposition.png)  
 
 **Lock Types:** read lock (VENDOR)
 
@@ -566,7 +566,7 @@ This task is divided into two parts (View Vendor and Add Vendor).
 ##  <ins>Add Vendor</ins>
 ### Task Decomposition
 
-![decomposition image](add_vendor_decomposition.png)  
+![decomposition image](imgs/add_vendor_decomposition.png)  
 
 **Lock Types:** write lock (VENDOR)  
 
