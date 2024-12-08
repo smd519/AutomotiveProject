@@ -1,12 +1,8 @@
-# Team 060
-- Hoyek, Christopher
-- Krishnamurthi, Anitha 
-- Lowenthal, Daniel N
-- Mosharraf, Sajjad  
-- Patel, Jigar
+# Team Project For Fall 2023
+- H. Christopher, K. Anitha, L. Daniel, M., Sajjad, P. Jigar
  
 # Tech Stack
-Our application is broken down into three different services:
+This application is broken down into three different services:
 1. `web`
    1. This is the frontend of our application, implemented in `React`
 2. `server`
